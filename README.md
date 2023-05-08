@@ -17,7 +17,7 @@ We will be using the Jupyter instance at CERN using Swan.
   <img src="pictures/cloud.png" width="700"/>
 </p>
 
-3. Paste https://github.com/CMSDAS/pyROOTforCMSDAS.git and click download
+3. Paste https://github.com/CERN-CMS-DAS-2023/pyROOTforCMSDAS.git and click download
 <p align="center">
   <img src="pictures/git.png" width="500"/>
 </p>

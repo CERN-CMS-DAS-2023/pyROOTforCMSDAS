@@ -24,4 +24,4 @@ We will be using the Jupyter instance at CERN using Swan.
 
 5. Go to exercises.ipynb and follow the instructions
 
-([Sixth set pre-exercises Twiki](https://cern-cms-das-2023.github.io/cms-das-pre-exercises/06-CMSDataAnalysisSchoolPreExerciseSixthSet/index.html))
+([Sixth set pre-exercises page](https://cern-cms-das-2023.github.io/cms-das-pre-exercises/06-CMSDataAnalysisSchoolPreExerciseSixthSet/index.html))
